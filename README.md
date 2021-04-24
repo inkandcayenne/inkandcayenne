@@ -3,6 +3,7 @@
 - Currently working in data analytics field using sql, Power BI and python scripts
 - I’m interested in python programming and analytics
 - I’m currently learning python from scratch and looking for some practice
+- Finished Pierian data python bootcamp, Skillbox data science course in progress
 - Reach me via email: d.shuvalova1@yandex.ru
 
 <!---
